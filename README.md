@@ -22,5 +22,13 @@ pf(S)  # evaluting the pfaffian of matrix S
 
 # (3) benchmarking
 
-the time complexicity is cubic:
+the time complexicity:
+
+<img src="/benchmarking.png" alt="drawing"/>
+
+after taken the log-log, and plot again, we can see that it's cubic law.
+
+<img src="/benchmarking2.png" alt="drawing"/>
+
+
 

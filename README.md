@@ -22,4 +22,5 @@ pf(S)  # evaluting the pfaffian of matrix S
 
 # (3) benchmarking
 
+the time complexicity is cubic:
 
